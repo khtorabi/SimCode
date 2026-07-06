@@ -1,0 +1,57 @@
+"MY TALK":{
+"print":{
+"position":"2,4",
+"at":"left.vir,8",
+"bg":"10,color.vir,1,1",
+"dimension":"1,1",
+"padding":"10,10,10,20",
+"scroll":"100",
+"text":"text.vir move_to.vir -50, -25 time.vir",
+"spl":"spl.vir",
+}
+"MY ANSWER":{
+"print":{
+"position":"2,4",
+"at":"left.vir,8",
+"bg":"10,color.vir,1,1",
+"dimension":"1,1",
+"padding":"10,10,10,20",
+"scroll":"100",
+"text":"text.vir move_to.vir -50, -25 time.vir",
+"spl":"spl_object.vir",
+}
+}
+"TODAY":{
+"print":{
+"position":"5,4",
+"at":"0,20",
+"bg":"10,color.vir,1,1",
+"dimension":"1,1",
+"padding":"10,0,10,0",
+"scroll":"100",
+"text":"day.vir",
+}
+}
+"FARSI_MSG":{
+"print":{
+"position":"2,4",
+"at":"left.vir,8",
+"bg":"10,color.vir,1,1",
+"dimension":"1,1",
+"padding":"10,10,10,20",
+"scroll":"100",
+"text":"text.vir move_to.vir -50, -25 time.vir",
+"spl":"spl_object.vir",
+}
+"FARSI_TALK":{
+"print":{
+"position":"2,4",
+"at":"left.vir,8",
+"bg":"10,color.vir,1,1",
+"dimension":"1,1",
+"padding":"10,10,10,20",
+"scroll":"100",
+"text":"text.vir move_to.vir -50, -25 time.vir",
+"spl":"spl.vir",
+}
+}
